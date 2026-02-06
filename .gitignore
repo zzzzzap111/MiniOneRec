@@ -1,0 +1,6 @@
+.idea/
+*.iml
+临时/
+模型尝试/
+__pycache__/
+.DS_Store
